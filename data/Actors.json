@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ハロルド","nickname":"","note":"Damage Offset: 0:-15","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"テレーゼ","nickname":"","note":"Damage Offset: 0:-15","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"マーシャ","nickname":"","note":"Damage Offset: 0:-15","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ルキウス","nickname":"","note":"Damage Offset: 0:-15","profile":""},
+{"id":5,"battlerName":"MyTest01","characterIndex":1,"characterName":"MyTest01","classId":5,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"MyTest01","traits":[],"initialLevel":1,"maxLevel":7,"name":"テスター","nickname":"ランク0","note":"<Set Sts Data>\nTreeType: 7, 9\nInit Sp: 5\n</Set Sts Data>","profile":""},
+{"id":6,"battlerName":"1099010301","characterIndex":0,"characterName":"","classId":6,"equips":[1,1,2,3,4],"faceIndex":1,"faceName":"MyTest01","traits":[],"initialLevel":1,"maxLevel":7,"name":"アイゼン","nickname":"ランク0","note":"<Set Sts Data>\nTreeType: 8, 9\nInit Sp: 3\n</Set Sts Data>","profile":""},
+{"id":7,"battlerName":"1162010301","characterIndex":0,"characterName":"","classId":7,"equips":[1,1,2,3,4],"faceIndex":2,"faceName":"MyTest01","traits":[],"initialLevel":1,"maxLevel":7,"name":"フィフタ","nickname":"ランク0","note":"<Set Sts Data>\nTreeType: 7\nInit Sp: 3\n</Set Sts Data>","profile":""}
+]

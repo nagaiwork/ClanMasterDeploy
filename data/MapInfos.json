@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":true,"name":"フィールド3","order":1,"parentId":0,"scrollX":2168,"scrollY":2156},
+{"id":2,"expanded":false,"name":"片田舎の村","order":2,"parentId":1,"scrollX":1109,"scrollY":1471},
+{"id":3,"expanded":false,"name":"冒険者ギルド","order":3,"parentId":1,"scrollX":811,"scrollY":503},
+{"id":4,"expanded":false,"name":"武器屋","order":4,"parentId":3,"scrollX":819,"scrollY":457},
+{"id":5,"expanded":true,"name":"防具屋","order":5,"parentId":4,"scrollX":534,"scrollY":354.5},
+{"id":6,"expanded":true,"name":"道具屋","order":6,"parentId":5,"scrollX":526,"scrollY":365.5},
+{"id":7,"expanded":true,"name":"城1F","order":7,"parentId":6,"scrollX":1341,"scrollY":791},
+{"id":8,"expanded":true,"name":"宿屋1F","order":8,"parentId":7,"scrollX":627,"scrollY":421},
+{"id":9,"expanded":true,"name":"普通の町","order":9,"parentId":8,"scrollX":1293,"scrollY":413},
+{"id":10,"expanded":true,"name":"森の町","order":10,"parentId":9,"scrollX":627,"scrollY":1310},
+{"id":11,"expanded":false,"name":"空中神殿","order":11,"parentId":10,"scrollX":811,"scrollY":633},
+{"id":12,"expanded":true,"name":"簡易ギルド","order":12,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":true,"name":"アカンカ洞窟 1F","order":14,"parentId":14,"scrollX":811,"scrollY":643},
+{"id":14,"expanded":true,"name":"アカンカ洞窟","order":13,"parentId":1,"scrollX":819,"scrollY":457},
+{"id":15,"expanded":false,"name":"アカンカ洞窟 B1F","order":15,"parentId":14,"scrollX":811,"scrollY":1117},
+{"id":16,"expanded":false,"name":"アカンカ洞窟 最奥","order":16,"parentId":14,"scrollX":819,"scrollY":457}
+]
